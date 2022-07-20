@@ -7,3 +7,5 @@ Itch.io: https://kdm-dev.itch.io/
 Twitter: https://twitter.com/KDM_gdev
 
 Drive: https://bit.ly/3GTtPws
+
+Life is Norman: https://squash-studios.itch.io/life-is-norman
